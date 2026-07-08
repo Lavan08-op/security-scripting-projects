@@ -1,8 +1,7 @@
-# DecodeLabs Internship — Cyber Security Track
+ Cyber Security Track
 Batch 2026 | Lavanya Saini
 
-This repository contains my submissions for the DecodeLabs Industrial
-Training Kit, Cyber Security track. Each project is in its own folder
+This repository contains my Cyber Security track. Each project is in its own folder
 with source code, a dedicated README, and supporting documentation.
 
 ## Projects
